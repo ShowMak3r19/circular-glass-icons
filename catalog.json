@@ -217,7 +217,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/020-minio.png",
     "width": 1254,
     "height": 1254,
-    "sha256": "88d153bac6a3553153fa72c06198b613b3609d349a9d0c8b5370d49d5f8dd240"
+    "sha256": "58e31e7b2f70b0c4b1cf2adfaa947301dc9ef89578c8d9c350fbb04a0ce8eebc"
   },
   {
     "id": "021-lucky",
@@ -415,7 +415,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/038-cpa.png",
     "width": 1254,
     "height": 1254,
-    "sha256": "cc5ee0e9bc76bc4b414cbd604ccc6d57fae8fb568b7483cd5ef47b64fc6dfd60"
+    "sha256": "8d248de9d70a17f72008a60fec1bf11c294496df822f00c9dc19a025e4890bb9"
   },
   {
     "id": "039-cpa",
@@ -426,7 +426,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/039-cpa.png",
     "width": 1254,
     "height": 1254,
-    "sha256": "93ec3216044482c82f7722aa53e80e6c6edea01a2314770e341b0fb11fef6f06"
+    "sha256": "8d248de9d70a17f72008a60fec1bf11c294496df822f00c9dc19a025e4890bb9"
   },
   {
     "id": "040-cpa2",
@@ -437,7 +437,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/040-cpa2.png",
     "width": 1254,
     "height": 1254,
-    "sha256": "f5ac823cda7f129016441340374f510e2dabf33088945326ddf72d3fb4f2c779"
+    "sha256": "8d248de9d70a17f72008a60fec1bf11c294496df822f00c9dc19a025e4890bb9"
   },
   {
     "id": "041-cpa-2",
@@ -448,7 +448,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/041-cpa-2.png",
     "width": 1254,
     "height": 1254,
-    "sha256": "6a991a0cd77dac63fd18093a298cadeb3e9a574584ca8eba9208e0ecf6a4854c"
+    "sha256": "8d248de9d70a17f72008a60fec1bf11c294496df822f00c9dc19a025e4890bb9"
   },
   {
     "id": "042-chatgpt2api",
@@ -517,6 +517,171 @@
     "sha256": "84cefcd06898ddf051b6f93978dbb2eb350426ab21e232cc1f02fdd9ab204a5a"
   },
   {
+    "id": "048-ai",
+    "name": "AI 能量小店",
+    "group": "AI",
+    "path": "icons/048-ai.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/048-ai.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "47d40094ef13cea0399b3408f5fda8b47e28420dcc59e1fe0d1cc5b19025fcf1"
+  },
+  {
+    "id": "049-icon",
+    "name": "号码购买",
+    "group": "AI",
+    "path": "icons/049-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/049-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "1c59cb3ef997a729e65f11aea394228d5d3d39a3d59952fff9350ac16a8bad38"
+  },
+  {
+    "id": "050-herosms",
+    "name": "HeroSMS",
+    "group": "AI",
+    "path": "icons/050-herosms.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/050-herosms.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "017cd869c1c930b85f3be49c7b4b5ef245abe2d0fcdc7db06e4bf28f2ecfc7ea"
+  },
+  {
+    "id": "051-icon",
+    "name": "白嫖",
+    "group": "AI",
+    "path": "icons/051-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/051-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e6745d37970a1a336a54dc9f7d3f442378bf038a543b1fb18b2f5ea08be36df6"
+  },
+  {
+    "id": "052-openai-chatgpt",
+    "name": "OPENAI(ChatGPT) 短信价格对比",
+    "group": "AI",
+    "path": "icons/052-openai-chatgpt.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/052-openai-chatgpt.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "36b947e7ea37177e06b522504537fbcefb3e2f1eae2fe9019e41921f7065b613"
+  },
+  {
+    "id": "053-giffgaff",
+    "name": "giffgaff",
+    "group": "AI",
+    "path": "icons/053-giffgaff.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/053-giffgaff.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "8ca9bfbac2775d63270a6cfdcfcc18a61c1b6995805ecf8f244d04fa8f7083ac"
+  },
+  {
+    "id": "054-ai-priceai",
+    "name": "AI订阅比价 | PriceAI",
+    "group": "AI",
+    "path": "icons/054-ai-priceai.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/054-ai-priceai.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "5ce1079d940bc3be7229d6193b3daceccaef25ee937e6a0bf72f269799ebc8b3"
+  },
+  {
+    "id": "055-chdbits",
+    "name": "CHDBits",
+    "group": "PT",
+    "path": "icons/055-chdbits.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/055-chdbits.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b6737d6048a7d327c667fb0f13f90628bd23df399285b1d7fda84418bda53001"
+  },
+  {
+    "id": "056-m-team",
+    "name": "M-Team",
+    "group": "PT",
+    "path": "icons/056-m-team.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/056-m-team.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a4a5d37b607cb687e07a7097af803ae00d6c6fdc4a1f4528faec7505b21f4534"
+  },
+  {
+    "id": "057-hdsky",
+    "name": "HDSky",
+    "group": "PT",
+    "path": "icons/057-hdsky.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/057-hdsky.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "29420fdc2b59eb1f833f0ffa6564c9a9ef0eb54f4bf0fa0ccdf774e914556f92"
+  },
+  {
+    "id": "058-hhclub",
+    "name": "HHCLUB",
+    "group": "PT",
+    "path": "icons/058-hhclub.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/058-hhclub.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "fa0cc3ea6100da0dfc33f5f634b602b2303622e3d44917c7e848e2bb309a8748"
+  },
+  {
+    "id": "059-icon",
+    "name": "人人",
+    "group": "PT",
+    "path": "icons/059-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/059-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "68cc739718da349ef8e2a44e837a25361a1c1ef13f676cc7dc9fef09de8e812f"
+  },
+  {
+    "id": "060-icon",
+    "name": "青蛙",
+    "group": "PT",
+    "path": "icons/060-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/060-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "30e2f28f58dc84f166b7f6e816fa7c143328af2936b21d64ecd67b9884ec7862"
+  },
+  {
+    "id": "061-pterclub",
+    "name": "PTerClub",
+    "group": "PT",
+    "path": "icons/061-pterclub.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/061-pterclub.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "adbb17ca8ad2d888355928a90e9f15aa4e7fb837b94de38b88eb9238f2446de2"
+  },
+  {
+    "id": "062-skills",
+    "name": "Skills",
+    "group": "人工智能",
+    "path": "icons/062-skills.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/062-skills.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "4821531c932b5943c22f4c3b95e78b89985645b3203f87340fafeda512310d99"
+  },
+  {
     "id": "063-chatgpt",
     "name": "ChatGPT",
     "group": "人工智能",
@@ -526,6 +691,127 @@
     "width": 200,
     "height": 200,
     "sha256": "dd870175fde37776706ad0cf3d9a14823082f0f6930651243c9d89db952e07a3"
+  },
+  {
+    "id": "064-opendoor",
+    "name": "OpenDoor",
+    "group": "人工智能",
+    "path": "icons/064-opendoor.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/064-opendoor.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "960412ef538511f59867d68e8b6a73c4664fe05f95f93c43f6e97f77081d2258"
+  },
+  {
+    "id": "065-gemini",
+    "name": "Gemini",
+    "group": "人工智能",
+    "path": "icons/065-gemini.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/065-gemini.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "5ad2dc3f151446ba8c1098a6c46b5bb53d801c9d6fbb1fd89adba06b39754c11"
+  },
+  {
+    "id": "066-ai",
+    "name": "即梦AI",
+    "group": "人工智能",
+    "path": "icons/066-ai.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/066-ai.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "384ec5bb72b32de66fa2c9b5a18d1cd9f685f80bc937c3ed763def8af9e460d0"
+  },
+  {
+    "id": "067-perplexity",
+    "name": "Perplexity",
+    "group": "人工智能",
+    "path": "icons/067-perplexity.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/067-perplexity.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "caf0c35e4f011e904f52988c0138231b8377a274415a593d285bea58379ade43"
+  },
+  {
+    "id": "068-copilot",
+    "name": "Copilot",
+    "group": "人工智能",
+    "path": "icons/068-copilot.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/068-copilot.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e4ca3b545bbf5d9fff32e860eda509adc140ea9eda79eed45c8c8d021f376354"
+  },
+  {
+    "id": "069-claude",
+    "name": "Claude",
+    "group": "人工智能",
+    "path": "icons/069-claude.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/069-claude.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "eed4f72faf3a9fb440d4b7883f3ff29a36ea59e27f0723ae40eb269896fb1c24"
+  },
+  {
+    "id": "070-notebooklm",
+    "name": "NotebookLM",
+    "group": "人工智能",
+    "path": "icons/070-notebooklm.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/070-notebooklm.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "2272f2679fc3fc5fc2f1e65e0ed931badb3bd93639d3bb5647a32433e8adde8d"
+  },
+  {
+    "id": "071-skywork",
+    "name": "SkyWork",
+    "group": "人工智能",
+    "path": "icons/071-skywork.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/071-skywork.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9d24a7315d47882391439f1f62b8549c15e85b8b87fa0f58cbb4634fba322c04"
+  },
+  {
+    "id": "072-manus",
+    "name": "Manus",
+    "group": "人工智能",
+    "path": "icons/072-manus.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/072-manus.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d3d21952ec13b1b6fd76a9981166f899e71037659fb84cba1e7ea01be9cf9dcb"
+  },
+  {
+    "id": "073-minimax",
+    "name": "MiniMax",
+    "group": "人工智能",
+    "path": "icons/073-minimax.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/073-minimax.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "14fff9b56f96c67d771560ffc89eefee3158c80a5826f334d42a42423e9bacc8"
+  },
+  {
+    "id": "074-meta-ai",
+    "name": "Meta AI",
+    "group": "人工智能",
+    "path": "icons/074-meta-ai.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/074-meta-ai.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f7a0ced897fbca328625ec04c4f014b574fa8206f9d953710101a068a73226e7"
   },
   {
     "id": "075-grok",
@@ -539,6 +825,105 @@
     "sha256": "5880d4b3e6199935fab0a40644b34838a3065d8193e25c1b5c7b39181c639768"
   },
   {
+    "id": "076-groq",
+    "name": "Groq",
+    "group": "人工智能",
+    "path": "icons/076-groq.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/076-groq.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a1d2712632d6b28fdda5fabf96ca2e6b033ac8485cefcfe353a0a98cd7bdf8da"
+  },
+  {
+    "id": "077-qwen",
+    "name": "Qwen",
+    "group": "人工智能",
+    "path": "icons/077-qwen.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/077-qwen.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "003a1c33f637ce98762330c161488e9bdfe142e81520e1e9e73b9b010bdbc022"
+  },
+  {
+    "id": "078-deepseek",
+    "name": "DeepSeek",
+    "group": "人工智能",
+    "path": "icons/078-deepseek.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/078-deepseek.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "253434c65b61f1720860270d485e4440316a1b26c5ae4863b313b31f29ea300e"
+  },
+  {
+    "id": "079-icon",
+    "name": "智谱清言",
+    "group": "人工智能",
+    "path": "icons/079-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/079-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ca44799ff8740ab3cc715aea6c70889c6ef43061a9ffc96e8344b43ff966fe98"
+  },
+  {
+    "id": "080-icon",
+    "name": "豆包",
+    "group": "人工智能",
+    "path": "icons/080-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/080-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "850714029f2786dfeef54a3f46a6a2eb546893f3d9755cfe8ee992b38877f704"
+  },
+  {
+    "id": "081-kimi",
+    "name": "KiMi",
+    "group": "人工智能",
+    "path": "icons/081-kimi.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/081-kimi.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "62652174e4c8bdd772bb1a5d4dcd065e776982651e19f69ac520ef36ff9b44f0"
+  },
+  {
+    "id": "082-icon",
+    "name": "元宝",
+    "group": "人工智能",
+    "path": "icons/082-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/082-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "58a3fea9cfb4bd471c61277826e105254f8fbf97452b05b52318a92f63e75a50"
+  },
+  {
+    "id": "083-ollama",
+    "name": "Ollama",
+    "group": "人工智能",
+    "path": "icons/083-ollama.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/083-ollama.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e887142cd98da4175bc42f1e010d4010e8964665269ef5691c4bab96067fbf48"
+  },
+  {
+    "id": "084-huggingface",
+    "name": "HuggingFace",
+    "group": "人工智能",
+    "path": "icons/084-huggingface.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/084-huggingface.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "c941f900d2f4ed1528bb9145a77023a1cd54c17389255c3dbcd038887cf62cb6"
+  },
+  {
     "id": "085-google",
     "name": "Google",
     "group": "视频资讯",
@@ -550,6 +935,17 @@
     "sha256": "47e23b2d5df86d8a6a39f13779f795b9fda8712dcf114c8ce5a81dee0fb2eb55"
   },
   {
+    "id": "086-bing",
+    "name": "Bing",
+    "group": "视频资讯",
+    "path": "icons/086-bing.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/086-bing.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "0e2f4a0dd303ff9310a8761bf104377788ed6888d4a5ec7b83584ac7a9672677"
+  },
+  {
     "id": "087-reddit",
     "name": "Reddit",
     "group": "视频资讯",
@@ -559,6 +955,17 @@
     "width": 200,
     "height": 200,
     "sha256": "0ea7eff1229600306a56fdf24406b27e1de169d29770eb58020147027f1be03a"
+  },
+  {
+    "id": "088-icon",
+    "name": "维基百科",
+    "group": "视频资讯",
+    "path": "icons/088-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/088-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "3f53bcaad50251cb12f41fbf1dcb2893619ac2b232a1eca7e08b4ae0ba475f0f"
   },
   {
     "id": "089-youtube",
@@ -627,6 +1034,83 @@
     "sha256": "3f22895612c3c26fc828652badfbec9b4fb84b912a9537309ac7af05b1037e95"
   },
   {
+    "id": "095-bbc",
+    "name": "BBC中文",
+    "group": "视频资讯",
+    "path": "icons/095-bbc.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/095-bbc.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "90f583568819ba6880312bdd19a9c07d11bc1de4766e852983ec4d2a140ddf82"
+  },
+  {
+    "id": "096-dw",
+    "name": "DW中文",
+    "group": "视频资讯",
+    "path": "icons/096-dw.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/096-dw.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "85f386ba723d7623ccc72924156bdfc2be58b8e65ceb30688d302e024f6afa60"
+  },
+  {
+    "id": "097-icon",
+    "name": "纽约时报",
+    "group": "视频资讯",
+    "path": "icons/097-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/097-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ef83fe84bb435cb8dedce4d2fa49580291666192d60b1250abf9de5be0030313"
+  },
+  {
+    "id": "098-baidu",
+    "name": "Baidu",
+    "group": "视频资讯",
+    "path": "icons/098-baidu.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/098-baidu.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f7e68a13b17fd4e1732879296733b80923c4206d6d1dfdd450c73a4697420371"
+  },
+  {
+    "id": "099-icon",
+    "name": "微博",
+    "group": "视频资讯",
+    "path": "icons/099-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/099-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "cd0c29dcb2342b5dc546f268b2df401139e57e569198d3cd512c02550a4e6ff2"
+  },
+  {
+    "id": "100-icon",
+    "name": "今日头条",
+    "group": "视频资讯",
+    "path": "icons/100-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/100-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "2e406f9b602a914584333b15b031720d716f1944036d7accdac68878bfb5712a"
+  },
+  {
+    "id": "101-icon",
+    "name": "知乎",
+    "group": "视频资讯",
+    "path": "icons/101-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/101-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "95bfe0d03b1ca538a7d519d07fcd720ef8ff9b51083d13820680c07442bff21e"
+  },
+  {
     "id": "102-icon",
     "name": "抖音",
     "group": "视频资讯",
@@ -636,6 +1120,17 @@
     "width": 200,
     "height": 200,
     "sha256": "e94e10945cb5024eec27151ac60789b2e2d1ab4eafc096f7d018113afecade1e"
+  },
+  {
+    "id": "103-icon",
+    "name": "西瓜视频",
+    "group": "视频资讯",
+    "path": "icons/103-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/103-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "62c9e7c7170113c3beee77013953c1c7b1e748ba91f7a30686dda58539a4231b"
   },
   {
     "id": "104-bilibili",
@@ -649,6 +1144,61 @@
     "sha256": "193248cde7ce78bc009d29c65a17c899ea7a9c7d0bf5ac1fddaafa3c7094ad31"
   },
   {
+    "id": "105-icon",
+    "name": "小红书",
+    "group": "视频资讯",
+    "path": "icons/105-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/105-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9c0924c4e6ff6a5a00eefe4713872419fe2965a460e2b75328b8c086c9121990"
+  },
+  {
+    "id": "106-icon",
+    "name": "豆瓣",
+    "group": "视频资讯",
+    "path": "icons/106-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/106-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "72c649fea68413330288fd711e5e16946fb08fbbec398c49ecf26f7599a4d4d3"
+  },
+  {
+    "id": "107-icon",
+    "name": "懂车帝",
+    "group": "视频资讯",
+    "path": "icons/107-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/107-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "2a7bffff893cb02d24aee512500274d3680a8fa31e60366bd69d7388574da5c6"
+  },
+  {
+    "id": "108-csdn",
+    "name": "CSDN",
+    "group": "视频资讯",
+    "path": "icons/108-csdn.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/108-csdn.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "4b0b251c9d3c928d27c8611db5e65f2cad384abbc7e68f34e98bbf50c7d82f3a"
+  },
+  {
+    "id": "109-icon",
+    "name": "安格超市",
+    "group": "服务应用",
+    "path": "icons/109-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/109-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a9f476b844e3003a9b16452e67bca59187c9bfb7a9deba2846d60e5cfdabbd4f"
+  },
+  {
     "id": "110-github",
     "name": "Github",
     "group": "服务应用",
@@ -658,5 +1208,203 @@
     "width": 200,
     "height": 200,
     "sha256": "6f3503cca3a8b2b50b6a72d34de20377bc0e559f6c017ac1ca332fd8062afa80"
+  },
+  {
+    "id": "111-aliyun",
+    "name": "Aliyun",
+    "group": "服务应用",
+    "path": "icons/111-aliyun.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/111-aliyun.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "5dfbbdd0cacc1c12a325956099038060ba3c9a84857cdc9702dc3aac6fea35b1"
+  },
+  {
+    "id": "112-namesilo",
+    "name": "NameSilo",
+    "group": "服务应用",
+    "path": "icons/112-namesilo.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/112-namesilo.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f8a6a70bf8cbee98bf22eaade4a7f48d2556f255527ba4269add6465b0647813"
+  },
+  {
+    "id": "113-cloudflare",
+    "name": "CloudFlare",
+    "group": "服务应用",
+    "path": "icons/113-cloudflare.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/113-cloudflare.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "716a01de27ff314ca78a9a7e70c0cdfd364816590440c93e9b4e4f766cd7298c"
+  },
+  {
+    "id": "114-icon",
+    "name": "谷歌云盘",
+    "group": "服务应用",
+    "path": "icons/114-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/114-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "396f578cb1f8ff25434258d2ca54cdbcb797857673b1401a4ae18ca266c91a07"
+  },
+  {
+    "id": "115-icon",
+    "name": "谷歌翻译",
+    "group": "服务应用",
+    "path": "icons/115-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/115-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "41429b9eba87e84508da84d0775329ba2b7aa77c7db1e6d110b4c153c81e6f66"
+  },
+  {
+    "id": "116-gh",
+    "name": "GH代理",
+    "group": "服务应用",
+    "path": "icons/116-gh.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/116-gh.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ed798e1f10af7708e0567f86e9f8d95dca4370d607abbc93ed8e60ee89630f0b"
+  },
+  {
+    "id": "117-gitee",
+    "name": "Gitee",
+    "group": "服务应用",
+    "path": "icons/117-gitee.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/117-gitee.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "fb87b41043015e23e052e71dd8fc2a0e11595140eef25e9741224946bbbb9d3c"
+  },
+  {
+    "id": "118-icon",
+    "name": "娃娃工具",
+    "group": "服务应用",
+    "path": "icons/118-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/118-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "95213ce0f9c79236f64ef3c15439ebe99e12ce078ff4b82328ce8f89329f4d5d"
+  },
+  {
+    "id": "119-tool-lu",
+    "name": "Tool.lu",
+    "group": "服务应用",
+    "path": "icons/119-tool-lu.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/119-tool-lu.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "00c90f7a0c3f3d40ddeb5333827c9d0ff7890da71b153c65ecb76ffa7fb11db3"
+  },
+  {
+    "id": "120-icon",
+    "name": "微软激活",
+    "group": "服务应用",
+    "path": "icons/120-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/120-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "0d6c2a1de367e42a0214c3e8dad594be999449589bfc0d365900ad871bf52542"
+  },
+  {
+    "id": "121-adg",
+    "name": "ADG 密码",
+    "group": "服务应用",
+    "path": "icons/121-adg.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/121-adg.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "04ab1e47b34d633903395f0fdd578076365dfaefc7f70bfafdc858c137a2a9a0"
+  },
+  {
+    "id": "122-blocktv",
+    "name": "BlockTV",
+    "group": "服务应用",
+    "path": "icons/122-blocktv.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/122-blocktv.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "4dccc147a96ff28000542b75a34f602640abaf9c2efa7afe0085111ea30ff94c"
+  },
+  {
+    "id": "123-v2rayse",
+    "name": "V2RaySE",
+    "group": "服务应用",
+    "path": "icons/123-v2rayse.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/123-v2rayse.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "034222c401516c06bd1c2a35191dde205b2c095293be82d00e7421585570a023"
+  },
+  {
+    "id": "124-adobe",
+    "name": "Adobe",
+    "group": "服务应用",
+    "path": "icons/124-adobe.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/124-adobe.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "fd4f0f9e3f8d65e91d86823e152b436518a069824a83383cd61125a68ea660b9"
+  },
+  {
+    "id": "125-iconify",
+    "name": "Iconify",
+    "group": "资源下载",
+    "path": "icons/125-iconify.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/125-iconify.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e1ba3a5396b96b99e3207c7a41423644ba8595279c7ceb52b2eb09525f758721"
+  },
+  {
+    "id": "126-ai-icon",
+    "name": "AI Icon",
+    "group": "资源下载",
+    "path": "icons/126-ai-icon.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/126-ai-icon.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f86128179288187c94df5e0a5611d3d44dc62af017305abe33bd7cba08496505"
+  },
+  {
+    "id": "127-fandom",
+    "name": "Fandom",
+    "group": "资源下载",
+    "path": "icons/127-fandom.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/127-fandom.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9f190d4a953f53d8b5273549a49755377ec37b45118f1acf26685bacb0ac4193"
+  },
+  {
+    "id": "128-seeklogo",
+    "name": "SeekLogo",
+    "group": "资源下载",
+    "path": "icons/128-seeklogo.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/128-seeklogo.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "50601081ec0ab58b58648f3a3fefa84d88ac2f2274d1e0870f33a888f1b0046f"
   }
 ]

@@ -2,7 +2,7 @@
 
 独立的圆形玻璃风格图标集合，可用于网页导航、个人主页和应用启动器。
 
-覆盖清单包含 192 个不同名称；已完成 60 个，待完成 132 个。相同名称的重复导航共用图标。
+覆盖清单包含 192 个不同名称；已完成 128 个，待完成 64 个。相同名称的重复导航共用图标。
 
 ## 使用方法
 
@@ -106,44 +106,112 @@
 | <img src="icons/045-aiclient2api.png" width="64" height="64" alt="AIClient2API"> | AIClient2API | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/045-aiclient2api.png) |
 | <img src="icons/046-open-webui.png" width="64" height="64" alt="Open WebUI"> | Open WebUI | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/046-open-webui.png) |
 | <img src="icons/047-icon.png" width="64" height="64" alt="卡网"> | 卡网 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/047-icon.png) |
+| <img src="icons/048-ai.png" width="64" height="64" alt="AI 能量小店"> | AI 能量小店 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/048-ai.png) |
+| <img src="icons/049-icon.png" width="64" height="64" alt="号码购买"> | 号码购买 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/049-icon.png) |
+| <img src="icons/050-herosms.png" width="64" height="64" alt="HeroSMS"> | HeroSMS | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/050-herosms.png) |
+| <img src="icons/051-icon.png" width="64" height="64" alt="白嫖"> | 白嫖 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/051-icon.png) |
+| <img src="icons/052-openai-chatgpt.png" width="64" height="64" alt="OPENAI(ChatGPT) 短信价格对比"> | OPENAI(ChatGPT) 短信价格对比 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/052-openai-chatgpt.png) |
+| <img src="icons/053-giffgaff.png" width="64" height="64" alt="giffgaff"> | giffgaff | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/053-giffgaff.png) |
+| <img src="icons/054-ai-priceai.png" width="64" height="64" alt="AI订阅比价 \| PriceAI"> | AI订阅比价 \| PriceAI | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/054-ai-priceai.png) |
 
 ## PT
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/055-chdbits.png" width="64" height="64" alt="CHDBits"> | CHDBits | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/055-chdbits.png) |
+| <img src="icons/056-m-team.png" width="64" height="64" alt="M-Team"> | M-Team | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/056-m-team.png) |
+| <img src="icons/057-hdsky.png" width="64" height="64" alt="HDSky"> | HDSky | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/057-hdsky.png) |
+| <img src="icons/058-hhclub.png" width="64" height="64" alt="HHCLUB"> | HHCLUB | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/058-hhclub.png) |
+| <img src="icons/059-icon.png" width="64" height="64" alt="人人"> | 人人 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/059-icon.png) |
+| <img src="icons/060-icon.png" width="64" height="64" alt="青蛙"> | 青蛙 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/060-icon.png) |
+| <img src="icons/061-pterclub.png" width="64" height="64" alt="PTerClub"> | PTerClub | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/061-pterclub.png) |
 
 ## 人工智能
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/062-skills.png" width="64" height="64" alt="Skills"> | Skills | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/062-skills.png) |
 | <img src="icons/063-chatgpt.png" width="64" height="64" alt="ChatGPT"> | ChatGPT | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/063-chatgpt.png) |
+| <img src="icons/064-opendoor.png" width="64" height="64" alt="OpenDoor"> | OpenDoor | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/064-opendoor.png) |
+| <img src="icons/065-gemini.png" width="64" height="64" alt="Gemini"> | Gemini | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/065-gemini.png) |
+| <img src="icons/066-ai.png" width="64" height="64" alt="即梦AI"> | 即梦AI | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/066-ai.png) |
+| <img src="icons/067-perplexity.png" width="64" height="64" alt="Perplexity"> | Perplexity | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/067-perplexity.png) |
+| <img src="icons/068-copilot.png" width="64" height="64" alt="Copilot"> | Copilot | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/068-copilot.png) |
+| <img src="icons/069-claude.png" width="64" height="64" alt="Claude"> | Claude | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/069-claude.png) |
+| <img src="icons/070-notebooklm.png" width="64" height="64" alt="NotebookLM"> | NotebookLM | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/070-notebooklm.png) |
+| <img src="icons/071-skywork.png" width="64" height="64" alt="SkyWork"> | SkyWork | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/071-skywork.png) |
+| <img src="icons/072-manus.png" width="64" height="64" alt="Manus"> | Manus | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/072-manus.png) |
+| <img src="icons/073-minimax.png" width="64" height="64" alt="MiniMax"> | MiniMax | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/073-minimax.png) |
+| <img src="icons/074-meta-ai.png" width="64" height="64" alt="Meta AI"> | Meta AI | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/074-meta-ai.png) |
 | <img src="icons/075-grok.png" width="64" height="64" alt="Grok"> | Grok | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/075-grok.png) |
+| <img src="icons/076-groq.png" width="64" height="64" alt="Groq"> | Groq | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/076-groq.png) |
+| <img src="icons/077-qwen.png" width="64" height="64" alt="Qwen"> | Qwen | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/077-qwen.png) |
+| <img src="icons/078-deepseek.png" width="64" height="64" alt="DeepSeek"> | DeepSeek | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/078-deepseek.png) |
+| <img src="icons/079-icon.png" width="64" height="64" alt="智谱清言"> | 智谱清言 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/079-icon.png) |
+| <img src="icons/080-icon.png" width="64" height="64" alt="豆包"> | 豆包 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/080-icon.png) |
+| <img src="icons/081-kimi.png" width="64" height="64" alt="KiMi"> | KiMi | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/081-kimi.png) |
+| <img src="icons/082-icon.png" width="64" height="64" alt="元宝"> | 元宝 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/082-icon.png) |
+| <img src="icons/083-ollama.png" width="64" height="64" alt="Ollama"> | Ollama | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/083-ollama.png) |
+| <img src="icons/084-huggingface.png" width="64" height="64" alt="HuggingFace"> | HuggingFace | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/084-huggingface.png) |
 
 ## 视频资讯
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
 | <img src="icons/085-google.png" width="64" height="64" alt="Google"> | Google | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/085-google.png) |
+| <img src="icons/086-bing.png" width="64" height="64" alt="Bing"> | Bing | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/086-bing.png) |
 | <img src="icons/087-reddit.png" width="64" height="64" alt="Reddit"> | Reddit | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/087-reddit.png) |
+| <img src="icons/088-icon.png" width="64" height="64" alt="维基百科"> | 维基百科 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/088-icon.png) |
 | <img src="icons/089-youtube.png" width="64" height="64" alt="Youtube"> | Youtube | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/089-youtube.png) |
 | <img src="icons/090-netflix.png" width="64" height="64" alt="Netflix"> | Netflix | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/090-netflix.png) |
 | <img src="icons/091-disney.png" width="64" height="64" alt="Disney+"> | Disney+ | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/091-disney.png) |
 | <img src="icons/092-hbo-max.png" width="64" height="64" alt="HBO Max"> | HBO Max | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/092-hbo-max.png) |
 | <img src="icons/093-tiktok.png" width="64" height="64" alt="TikTok"> | TikTok | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/093-tiktok.png) |
 | <img src="icons/094-spotify.png" width="64" height="64" alt="Spotify"> | Spotify | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/094-spotify.png) |
+| <img src="icons/095-bbc.png" width="64" height="64" alt="BBC中文"> | BBC中文 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/095-bbc.png) |
+| <img src="icons/096-dw.png" width="64" height="64" alt="DW中文"> | DW中文 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/096-dw.png) |
+| <img src="icons/097-icon.png" width="64" height="64" alt="纽约时报"> | 纽约时报 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/097-icon.png) |
+| <img src="icons/098-baidu.png" width="64" height="64" alt="Baidu"> | Baidu | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/098-baidu.png) |
+| <img src="icons/099-icon.png" width="64" height="64" alt="微博"> | 微博 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/099-icon.png) |
+| <img src="icons/100-icon.png" width="64" height="64" alt="今日头条"> | 今日头条 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/100-icon.png) |
+| <img src="icons/101-icon.png" width="64" height="64" alt="知乎"> | 知乎 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/101-icon.png) |
 | <img src="icons/102-icon.png" width="64" height="64" alt="抖音"> | 抖音 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/102-icon.png) |
+| <img src="icons/103-icon.png" width="64" height="64" alt="西瓜视频"> | 西瓜视频 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/103-icon.png) |
 | <img src="icons/104-bilibili.png" width="64" height="64" alt="Bilibili"> | Bilibili | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/104-bilibili.png) |
+| <img src="icons/105-icon.png" width="64" height="64" alt="小红书"> | 小红书 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/105-icon.png) |
+| <img src="icons/106-icon.png" width="64" height="64" alt="豆瓣"> | 豆瓣 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/106-icon.png) |
+| <img src="icons/107-icon.png" width="64" height="64" alt="懂车帝"> | 懂车帝 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/107-icon.png) |
+| <img src="icons/108-csdn.png" width="64" height="64" alt="CSDN"> | CSDN | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/108-csdn.png) |
 
 ## 服务应用
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/109-icon.png" width="64" height="64" alt="安格超市"> | 安格超市 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/109-icon.png) |
 | <img src="icons/110-github.png" width="64" height="64" alt="Github"> | Github | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/110-github.png) |
+| <img src="icons/111-aliyun.png" width="64" height="64" alt="Aliyun"> | Aliyun | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/111-aliyun.png) |
+| <img src="icons/112-namesilo.png" width="64" height="64" alt="NameSilo"> | NameSilo | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/112-namesilo.png) |
+| <img src="icons/113-cloudflare.png" width="64" height="64" alt="CloudFlare"> | CloudFlare | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/113-cloudflare.png) |
+| <img src="icons/114-icon.png" width="64" height="64" alt="谷歌云盘"> | 谷歌云盘 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/114-icon.png) |
+| <img src="icons/115-icon.png" width="64" height="64" alt="谷歌翻译"> | 谷歌翻译 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/115-icon.png) |
+| <img src="icons/116-gh.png" width="64" height="64" alt="GH代理"> | GH代理 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/116-gh.png) |
+| <img src="icons/117-gitee.png" width="64" height="64" alt="Gitee"> | Gitee | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/117-gitee.png) |
+| <img src="icons/118-icon.png" width="64" height="64" alt="娃娃工具"> | 娃娃工具 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/118-icon.png) |
+| <img src="icons/119-tool-lu.png" width="64" height="64" alt="Tool.lu"> | Tool.lu | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/119-tool-lu.png) |
+| <img src="icons/120-icon.png" width="64" height="64" alt="微软激活"> | 微软激活 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/120-icon.png) |
+| <img src="icons/121-adg.png" width="64" height="64" alt="ADG 密码"> | ADG 密码 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/121-adg.png) |
+| <img src="icons/122-blocktv.png" width="64" height="64" alt="BlockTV"> | BlockTV | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/122-blocktv.png) |
+| <img src="icons/123-v2rayse.png" width="64" height="64" alt="V2RaySE"> | V2RaySE | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/123-v2rayse.png) |
+| <img src="icons/124-adobe.png" width="64" height="64" alt="Adobe"> | Adobe | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/124-adobe.png) |
 
 ## 资源下载
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/125-iconify.png" width="64" height="64" alt="Iconify"> | Iconify | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/125-iconify.png) |
+| <img src="icons/126-ai-icon.png" width="64" height="64" alt="AI Icon"> | AI Icon | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/126-ai-icon.png) |
+| <img src="icons/127-fandom.png" width="64" height="64" alt="Fandom"> | Fandom | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/127-fandom.png) |
+| <img src="icons/128-seeklogo.png" width="64" height="64" alt="SeekLogo"> | SeekLogo | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/128-seeklogo.png) |
 
 ## 金融经济
 
