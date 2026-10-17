@@ -1240,7 +1240,7 @@
     "path": "icons/125-iconify.png",
     "source": "generated",
     "status": "ready",
-    "prompt": "Create ONE finished PNG navigation icon for \"Iconify\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
+    "prompt": "Create one finished circular glass navigation icon for Iconify, a library of vector icons. Central symbol: a precise grid of four distinct raised white geometric symbols: circle, square, triangle and star. Use a turquoise translucent glass disk. The provided image is a STYLE reference only: match its glossy 3D glass circular medallion, fine beveled rim, soft highlights, rounded white ceramic relief and front-facing composition. Keep the pictogram bold and clear at 64 pixels. Square PNG with true alpha transparency outside the disk and equal 5 percent margin on all sides. No words, no generic download-tray symbol, no extra background or objects.",
     "styleReference": "originals/bilibili.png"
   },
   {
@@ -1270,7 +1270,7 @@
     "path": "icons/128-seeklogo.png",
     "source": "generated",
     "status": "ready",
-    "prompt": "Create ONE finished PNG navigation icon for \"SeekLogo\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
+    "prompt": "Create one finished circular glass navigation icon for SeekLogo, a searchable library of brand logos. Central symbol: one raised white magnifying glass inspecting a small sculpted abstract diamond emblem. Use a coral red translucent glass disk. The provided image is a STYLE reference only: match its glossy 3D glass circular medallion, fine beveled rim, soft highlights, rounded white ceramic relief and front-facing composition. Keep the pictogram bold and clear at 64 pixels. Square PNG with true alpha transparency outside the disk and equal 5 percent margin on all sides. No words, no generic download-tray symbol, no extra background or objects.",
     "styleReference": "originals/bilibili.png"
   },
   {
@@ -1279,7 +1279,7 @@
     "group": "资源下载",
     "path": "icons/129-z-library.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Z-Library\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1289,8 +1289,8 @@
     "group": "资源下载",
     "path": "icons/130-hifini.png",
     "source": "generated",
-    "status": "pending",
-    "prompt": "Create ONE finished PNG navigation icon for \"HiFiNi\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
+    "status": "ready",
+    "prompt": "Create one finished circular glass navigation icon for HiFiNi, a music community. Central symbol: raised white headphones surrounding one rounded musical eighth note. Use a ice blue translucent glass disk. The provided image is a STYLE reference only: match its glossy 3D glass circular medallion, fine beveled rim, soft highlights, rounded white ceramic relief and front-facing composition. Keep the pictogram bold and clear at 64 pixels. Square PNG with true alpha transparency outside the disk and equal 5 percent margin on all sides. No words, no generic download-tray symbol, no extra background or objects.",
     "styleReference": "originals/bilibili.png"
   },
   {
@@ -1299,8 +1299,8 @@
     "group": "资源下载",
     "path": "icons/131-kwrt.png",
     "source": "generated",
-    "status": "pending",
-    "prompt": "Create ONE finished PNG navigation icon for \"Kwrt\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
+    "status": "ready",
+    "prompt": "Create one finished circular glass navigation icon for Kwrt, router firmware downloads. Central symbol: one compact raised white Wi-Fi router with two antennas and a small downward arrow on its front. Use a lavender translucent glass disk. The provided image is a STYLE reference only: match its glossy 3D glass circular medallion, fine beveled rim, soft highlights, rounded white ceramic relief and front-facing composition. Keep the pictogram bold and clear at 64 pixels. Square PNG with true alpha transparency outside the disk and equal 5 percent margin on all sides. No words, no generic download-tray symbol, no extra background or objects.",
     "styleReference": "originals/bilibili.png"
   },
   {
@@ -1309,7 +1309,7 @@
     "group": "资源下载",
     "path": "icons/132-gamer520.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Gamer520\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1319,7 +1319,7 @@
     "group": "资源下载",
     "path": "icons/133-msdn-ity.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"MSDN,ITY\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1329,7 +1329,7 @@
     "group": "资源下载",
     "path": "icons/134-are-u-ok.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Are-U-OK\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1339,7 +1339,7 @@
     "group": "资源下载",
     "path": "icons/135-apkpure.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"ApkPure\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1349,7 +1349,7 @@
     "group": "资源下载",
     "path": "icons/136-openwrt.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"OpenWRT\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1359,8 +1359,8 @@
     "group": "资源下载",
     "path": "icons/137-icon.png",
     "source": "generated",
-    "status": "pending",
-    "prompt": "Create ONE finished PNG navigation icon for \"工具帮\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
+    "status": "ready",
+    "prompt": "Create one finished circular glass navigation icon for 工具帮, a collection of practical software tools. Central symbol: one raised white open toolbox with a simple wrench protruding from it. Use a emerald green translucent glass disk. The provided image is a STYLE reference only: match its glossy 3D glass circular medallion, fine beveled rim, soft highlights, rounded white ceramic relief and front-facing composition. Keep the pictogram bold and clear at 64 pixels. Square PNG with true alpha transparency outside the disk and equal 5 percent margin on all sides. No words, no generic download-tray symbol, no extra background or objects.",
     "styleReference": "originals/bilibili.png"
   },
   {
@@ -1369,7 +1369,7 @@
     "group": "资源下载",
     "path": "icons/138-geosite.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"GeoSite\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1379,7 +1379,7 @@
     "group": "资源下载",
     "path": "icons/139-pve-tools.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"PVE Tools\" in the category \"资源下载\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1389,7 +1389,7 @@
     "group": "金融经济",
     "path": "icons/140-tradingview.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"TradingView\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1399,7 +1399,7 @@
     "group": "金融经济",
     "path": "icons/141-paypal.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"PayPal\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1409,7 +1409,7 @@
     "group": "金融经济",
     "path": "icons/142-okx.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"OKX\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1419,7 +1419,7 @@
     "group": "金融经济",
     "path": "icons/143-binance.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Binance\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1429,7 +1429,7 @@
     "group": "金融经济",
     "path": "icons/144-gate.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Gate\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1439,7 +1439,7 @@
     "group": "金融经济",
     "path": "icons/145-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"雪球\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1449,7 +1449,7 @@
     "group": "金融经济",
     "path": "icons/146-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"问财\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1459,7 +1459,7 @@
     "group": "金融经济",
     "path": "icons/147-fastbull.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"FastBull\" in the category \"金融经济\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1469,7 +1469,7 @@
     "group": "网络工具",
     "path": "icons/148-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"浙江移动测速\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1479,7 +1479,7 @@
     "group": "网络工具",
     "path": "icons/149-cloudflare.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"CloudFlare 测速\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1489,7 +1489,7 @@
     "group": "网络工具",
     "path": "icons/150-fast.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Fast 测速\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1499,7 +1499,7 @@
     "group": "网络工具",
     "path": "icons/151-speedcheck.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"SpeedCheck\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1509,7 +1509,7 @@
     "group": "网络工具",
     "path": "icons/152-speedtest-net.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"SpeedTest.net\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1519,7 +1519,7 @@
     "group": "网络工具",
     "path": "icons/153-speedtest-cn.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"SpeedTest.cn\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1529,7 +1529,7 @@
     "group": "网络工具",
     "path": "icons/154-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"中科大测速\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1539,7 +1539,7 @@
     "group": "网络工具",
     "path": "icons/155-ip.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IP纯净度\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1549,7 +1549,7 @@
     "group": "网络工具",
     "path": "icons/156-dns.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"DNS检测\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1559,7 +1559,7 @@
     "group": "网络工具",
     "path": "icons/157-dns.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"DNS查询\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1569,7 +1569,7 @@
     "group": "网络工具",
     "path": "icons/158-dns-check.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"DNS Check\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1579,7 +1579,7 @@
     "group": "网络工具",
     "path": "icons/159-whoer.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Whoer\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1589,7 +1589,7 @@
     "group": "网络工具",
     "path": "icons/160-dns-leaktest.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"DNS Leaktest\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1599,7 +1599,7 @@
     "group": "网络工具",
     "path": "icons/161-browserleaks.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"BrowserLeaks\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1609,7 +1609,7 @@
     "group": "网络工具",
     "path": "icons/162-dnsleaktest.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"DNSLeakTest\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1619,7 +1619,7 @@
     "group": "网络工具",
     "path": "icons/163-browserscan.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"BrowserScan\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1629,7 +1629,7 @@
     "group": "网络工具",
     "path": "icons/164-ipleak.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IPLeak\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1639,7 +1639,7 @@
     "group": "网络工具",
     "path": "icons/165-ip-score.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IP-Score\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1649,7 +1649,7 @@
     "group": "网络工具",
     "path": "icons/166-ping0.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Ping0\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1659,7 +1659,7 @@
     "group": "网络工具",
     "path": "icons/167-ipinfo.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IPinfo\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1669,7 +1669,7 @@
     "group": "网络工具",
     "path": "icons/168-ip125.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IP125\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1679,7 +1679,7 @@
     "group": "网络工具",
     "path": "icons/169-skk.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"SKK\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1689,7 +1689,7 @@
     "group": "网络工具",
     "path": "icons/170-ip111.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IP111\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1699,7 +1699,7 @@
     "group": "网络工具",
     "path": "icons/171-ipw-cn.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IPW.cn\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1709,7 +1709,7 @@
     "group": "网络工具",
     "path": "icons/172-test-ipv6.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Test-IPV6\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1719,7 +1719,7 @@
     "group": "网络工具",
     "path": "icons/173-ipv6-google.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"IPv6.Google\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1729,7 +1729,7 @@
     "group": "网络工具",
     "path": "icons/174-vultr.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Vultr\" in the category \"网络工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1739,7 +1739,7 @@
     "group": "其他工具",
     "path": "icons/175-chmlfrp.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"ChmlFrp\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1749,7 +1749,7 @@
     "group": "其他工具",
     "path": "icons/176-luckmail.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"LuckMail\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1759,7 +1759,7 @@
     "group": "其他工具",
     "path": "icons/177-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"邮箱收码\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1769,7 +1769,7 @@
     "group": "其他工具",
     "path": "icons/178-smbox.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"快速开始 | SMbox\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1779,7 +1779,7 @@
     "group": "其他工具",
     "path": "icons/179-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"小苹果邮箱助手(邮件获取)\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1789,7 +1789,7 @@
     "group": "其他工具",
     "path": "icons/180-tom.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Tom课堂开课啦~\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1799,7 +1799,7 @@
     "group": "其他工具",
     "path": "icons/181-pt.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"PT监护室\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1809,7 +1809,7 @@
     "group": "其他工具",
     "path": "icons/182-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"白嫖中转\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1819,7 +1819,7 @@
     "group": "其他工具",
     "path": "icons/183-msm-wiki.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"MSM Wiki\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1829,7 +1829,7 @@
     "group": "其他工具",
     "path": "icons/184-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"剪切板\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a coral red glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1839,7 +1839,7 @@
     "group": "其他工具",
     "path": "icons/185-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"字幕\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a emerald green glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1849,7 +1849,7 @@
     "group": "其他工具",
     "path": "icons/186-nfshare.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"NFshare\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1859,7 +1859,7 @@
     "group": "其他工具",
     "path": "icons/187-bt.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"BT天堂\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1869,7 +1869,7 @@
     "group": "其他工具",
     "path": "icons/188-nb.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"NB机场\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1879,7 +1879,7 @@
     "group": "其他工具",
     "path": "icons/189-icon.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"红杏云\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a turquoise glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1889,7 +1889,7 @@
     "group": "其他工具",
     "path": "icons/190-nicecloud.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"Nicecloud\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a amber glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1899,7 +1899,7 @@
     "group": "其他工具",
     "path": "icons/191-myip.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"myip\" in the category \"其他工具\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a cobalt blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
   },
@@ -1909,7 +1909,7 @@
     "group": "Momo",
     "path": "icons/192-jav.png",
     "source": "generated",
-    "status": "pending",
+    "status": "ready",
     "prompt": "Create one neutral film-awards website navigation icon: a small elegant golden rooster award statuette centered in a translucent amber circular glass medallion. Match the supplied reference only in glossy 3D glass material, beveled circular rim, soft highlights and sculpted ceramic relief. Front facing perfect circle on a square canvas, 5 percent transparent margin on all sides. True alpha background. No lettering, photographs or extra objects.",
     "styleReference": "originals/bilibili.png"
   }

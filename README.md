@@ -2,7 +2,7 @@
 
 独立的圆形玻璃风格图标集合，可用于网页导航、个人主页和应用启动器。
 
-覆盖清单包含 192 个不同名称；已完成 128 个，待完成 64 个。相同名称的重复导航共用图标。
+覆盖清单包含 192 个不同名称；已完成 192 个，待完成 0 个。相同名称的重复导航共用图标。
 
 ## 使用方法
 
@@ -13,11 +13,11 @@
 ## 文件结构
 
 - `originals/`：压缩包中 26 张原始 PNG，字节保持不变。
-- `icons/`：导航条目对应的原图副本和新设计图标。
+- `icons/`：导航条目对应的原图副本和新设计图标，统一为 200×200 透明 PNG。
 - `catalog.json`：名称、分组、远程地址、尺寸和校验值。
 - `design/plan.json`：覆盖清单、设计提示词、来源和完成状态。
 
-原图由仓库所有者提供。新增图标使用内置图像生成工具制作，部分私有工具采用功能主题图形；品牌相关图形为非官方风格化表现。
+原图由仓库所有者提供。新增图标使用内置图像生成工具制作，高清原稿保留在本地，发布版使用 200×200 尺寸以减少远程加载流量。相同服务的多个入口可复用同一设计；部分私有工具采用功能主题图形，品牌相关图形为非官方风格化表现。
 
 ## 原始图标
 
@@ -212,23 +212,87 @@
 | <img src="icons/126-ai-icon.png" width="64" height="64" alt="AI Icon"> | AI Icon | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/126-ai-icon.png) |
 | <img src="icons/127-fandom.png" width="64" height="64" alt="Fandom"> | Fandom | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/127-fandom.png) |
 | <img src="icons/128-seeklogo.png" width="64" height="64" alt="SeekLogo"> | SeekLogo | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/128-seeklogo.png) |
+| <img src="icons/129-z-library.png" width="64" height="64" alt="Z-Library"> | Z-Library | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/129-z-library.png) |
+| <img src="icons/130-hifini.png" width="64" height="64" alt="HiFiNi"> | HiFiNi | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/130-hifini.png) |
+| <img src="icons/131-kwrt.png" width="64" height="64" alt="Kwrt"> | Kwrt | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/131-kwrt.png) |
+| <img src="icons/132-gamer520.png" width="64" height="64" alt="Gamer520"> | Gamer520 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/132-gamer520.png) |
+| <img src="icons/133-msdn-ity.png" width="64" height="64" alt="MSDN,ITY"> | MSDN,ITY | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/133-msdn-ity.png) |
+| <img src="icons/134-are-u-ok.png" width="64" height="64" alt="Are-U-OK"> | Are-U-OK | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/134-are-u-ok.png) |
+| <img src="icons/135-apkpure.png" width="64" height="64" alt="ApkPure"> | ApkPure | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/135-apkpure.png) |
+| <img src="icons/136-openwrt.png" width="64" height="64" alt="OpenWRT"> | OpenWRT | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/136-openwrt.png) |
+| <img src="icons/137-icon.png" width="64" height="64" alt="工具帮"> | 工具帮 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/137-icon.png) |
+| <img src="icons/138-geosite.png" width="64" height="64" alt="GeoSite"> | GeoSite | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/138-geosite.png) |
+| <img src="icons/139-pve-tools.png" width="64" height="64" alt="PVE Tools"> | PVE Tools | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/139-pve-tools.png) |
 
 ## 金融经济
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/140-tradingview.png" width="64" height="64" alt="TradingView"> | TradingView | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/140-tradingview.png) |
+| <img src="icons/141-paypal.png" width="64" height="64" alt="PayPal"> | PayPal | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/141-paypal.png) |
+| <img src="icons/142-okx.png" width="64" height="64" alt="OKX"> | OKX | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/142-okx.png) |
+| <img src="icons/143-binance.png" width="64" height="64" alt="Binance"> | Binance | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/143-binance.png) |
+| <img src="icons/144-gate.png" width="64" height="64" alt="Gate"> | Gate | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/144-gate.png) |
+| <img src="icons/145-icon.png" width="64" height="64" alt="雪球"> | 雪球 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/145-icon.png) |
+| <img src="icons/146-icon.png" width="64" height="64" alt="问财"> | 问财 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/146-icon.png) |
+| <img src="icons/147-fastbull.png" width="64" height="64" alt="FastBull"> | FastBull | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/147-fastbull.png) |
 
 ## 网络工具
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/148-icon.png" width="64" height="64" alt="浙江移动测速"> | 浙江移动测速 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/148-icon.png) |
+| <img src="icons/149-cloudflare.png" width="64" height="64" alt="CloudFlare 测速"> | CloudFlare 测速 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/149-cloudflare.png) |
+| <img src="icons/150-fast.png" width="64" height="64" alt="Fast 测速"> | Fast 测速 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/150-fast.png) |
+| <img src="icons/151-speedcheck.png" width="64" height="64" alt="SpeedCheck"> | SpeedCheck | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/151-speedcheck.png) |
+| <img src="icons/152-speedtest-net.png" width="64" height="64" alt="SpeedTest.net"> | SpeedTest.net | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/152-speedtest-net.png) |
+| <img src="icons/153-speedtest-cn.png" width="64" height="64" alt="SpeedTest.cn"> | SpeedTest.cn | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/153-speedtest-cn.png) |
+| <img src="icons/154-icon.png" width="64" height="64" alt="中科大测速"> | 中科大测速 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/154-icon.png) |
+| <img src="icons/155-ip.png" width="64" height="64" alt="IP纯净度"> | IP纯净度 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/155-ip.png) |
+| <img src="icons/156-dns.png" width="64" height="64" alt="DNS检测"> | DNS检测 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/156-dns.png) |
+| <img src="icons/157-dns.png" width="64" height="64" alt="DNS查询"> | DNS查询 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/157-dns.png) |
+| <img src="icons/158-dns-check.png" width="64" height="64" alt="DNS Check"> | DNS Check | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/158-dns-check.png) |
+| <img src="icons/159-whoer.png" width="64" height="64" alt="Whoer"> | Whoer | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/159-whoer.png) |
+| <img src="icons/160-dns-leaktest.png" width="64" height="64" alt="DNS Leaktest"> | DNS Leaktest | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/160-dns-leaktest.png) |
+| <img src="icons/161-browserleaks.png" width="64" height="64" alt="BrowserLeaks"> | BrowserLeaks | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/161-browserleaks.png) |
+| <img src="icons/162-dnsleaktest.png" width="64" height="64" alt="DNSLeakTest"> | DNSLeakTest | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/162-dnsleaktest.png) |
+| <img src="icons/163-browserscan.png" width="64" height="64" alt="BrowserScan"> | BrowserScan | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/163-browserscan.png) |
+| <img src="icons/164-ipleak.png" width="64" height="64" alt="IPLeak"> | IPLeak | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/164-ipleak.png) |
+| <img src="icons/165-ip-score.png" width="64" height="64" alt="IP-Score"> | IP-Score | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/165-ip-score.png) |
+| <img src="icons/166-ping0.png" width="64" height="64" alt="Ping0"> | Ping0 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/166-ping0.png) |
+| <img src="icons/167-ipinfo.png" width="64" height="64" alt="IPinfo"> | IPinfo | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/167-ipinfo.png) |
+| <img src="icons/168-ip125.png" width="64" height="64" alt="IP125"> | IP125 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/168-ip125.png) |
+| <img src="icons/169-skk.png" width="64" height="64" alt="SKK"> | SKK | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/169-skk.png) |
+| <img src="icons/170-ip111.png" width="64" height="64" alt="IP111"> | IP111 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/170-ip111.png) |
+| <img src="icons/171-ipw-cn.png" width="64" height="64" alt="IPW.cn"> | IPW.cn | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/171-ipw-cn.png) |
+| <img src="icons/172-test-ipv6.png" width="64" height="64" alt="Test-IPV6"> | Test-IPV6 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/172-test-ipv6.png) |
+| <img src="icons/173-ipv6-google.png" width="64" height="64" alt="IPv6.Google"> | IPv6.Google | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/173-ipv6-google.png) |
+| <img src="icons/174-vultr.png" width="64" height="64" alt="Vultr"> | Vultr | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/174-vultr.png) |
 
 ## 其他工具
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/175-chmlfrp.png" width="64" height="64" alt="ChmlFrp"> | ChmlFrp | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/175-chmlfrp.png) |
+| <img src="icons/176-luckmail.png" width="64" height="64" alt="LuckMail"> | LuckMail | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/176-luckmail.png) |
+| <img src="icons/177-icon.png" width="64" height="64" alt="邮箱收码"> | 邮箱收码 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/177-icon.png) |
+| <img src="icons/178-smbox.png" width="64" height="64" alt="快速开始 \| SMbox"> | 快速开始 \| SMbox | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/178-smbox.png) |
+| <img src="icons/179-icon.png" width="64" height="64" alt="小苹果邮箱助手(邮件获取)"> | 小苹果邮箱助手(邮件获取) | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/179-icon.png) |
+| <img src="icons/180-tom.png" width="64" height="64" alt="Tom课堂开课啦~"> | Tom课堂开课啦~ | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/180-tom.png) |
+| <img src="icons/181-pt.png" width="64" height="64" alt="PT监护室"> | PT监护室 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/181-pt.png) |
+| <img src="icons/182-icon.png" width="64" height="64" alt="白嫖中转"> | 白嫖中转 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/182-icon.png) |
+| <img src="icons/183-msm-wiki.png" width="64" height="64" alt="MSM Wiki"> | MSM Wiki | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/183-msm-wiki.png) |
+| <img src="icons/184-icon.png" width="64" height="64" alt="剪切板"> | 剪切板 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/184-icon.png) |
+| <img src="icons/185-icon.png" width="64" height="64" alt="字幕"> | 字幕 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/185-icon.png) |
+| <img src="icons/186-nfshare.png" width="64" height="64" alt="NFshare"> | NFshare | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/186-nfshare.png) |
+| <img src="icons/187-bt.png" width="64" height="64" alt="BT天堂"> | BT天堂 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/187-bt.png) |
+| <img src="icons/188-nb.png" width="64" height="64" alt="NB机场"> | NB机场 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/188-nb.png) |
+| <img src="icons/189-icon.png" width="64" height="64" alt="红杏云"> | 红杏云 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/189-icon.png) |
+| <img src="icons/190-nicecloud.png" width="64" height="64" alt="Nicecloud"> | Nicecloud | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/190-nicecloud.png) |
+| <img src="icons/191-myip.png" width="64" height="64" alt="myip"> | myip | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/191-myip.png) |
 
 ## Momo
 
 | 预览 | 名称 | 原图地址 |
 | --- | --- | --- |
+| <img src="icons/192-jav.png" width="64" height="64" alt="JAV金鸡儿奖官网"> | JAV金鸡儿奖官网 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/192-jav.png) |
