@@ -90,7 +90,6 @@
 | <img src="icons/034-nono.png" width="64" height="64" alt="NONO"> | NONO | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/034-nono.png) |
 | <img src="icons/035-muvyo.png" width="64" height="64" alt="Muvyo"> | Muvyo | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/035-muvyo.png) |
 | <img src="icons/036-mr.png" width="64" height="64" alt="MR授权管理"> | MR授权管理 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/036-mr.png) |
-| <img src="icons/193-workbuddy.png" width="64" height="64" alt="WorkBuddy"> | WorkBuddy | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/193-workbuddy.png) |
 
 ## AI
 
@@ -114,6 +113,7 @@
 | <img src="icons/052-openai-chatgpt.png" width="64" height="64" alt="OPENAI(ChatGPT) 短信价格对比"> | OPENAI(ChatGPT) 短信价格对比 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/052-openai-chatgpt.png) |
 | <img src="icons/053-giffgaff.png" width="64" height="64" alt="giffgaff"> | giffgaff | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/053-giffgaff.png) |
 | <img src="icons/054-ai-priceai.png" width="64" height="64" alt="AI订阅比价 \| PriceAI"> | AI订阅比价 \| PriceAI | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/054-ai-priceai.png) |
+| <img src="icons/193-workbuddy.png" width="64" height="64" alt="WorkBuddy"> | WorkBuddy | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/193-workbuddy.png) |
 
 ## PT
 
