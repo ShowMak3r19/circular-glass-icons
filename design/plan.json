@@ -106,8 +106,10 @@
     "path": "icons/011-momo.png",
     "source": "generated",
     "status": "ready",
-    "prompt": "Create ONE finished PNG navigation icon for \"Momo\" in the category \"APP\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a lavender glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup. Subject clarification: private media library, original violet film-reel symbol.",
-    "styleReference": "originals/bilibili.png"
+    "prompt": "Use case: stylized-concept. Create one premium app navigation icon, square composition, matching the provided reference image ONLY for its circular glass button materials and proportions. A perfectly circular glossy glass disk with a thick double beveled luminous rim, frontal view, soft upper-left studio highlights. Disk occupies 94% of square, centered with equal small margins. A single large raised 3D emblem sits within disk. Outside circle genuinely transparent, no backdrop, no cast shadow outside disk, no text, no watermark, no grid, no other icons. Strong readable silhouette at 200x200 pixels. Momo: a plump PINK PEACH fruit, pink and blush ceramic-glass skin, recognizable central peach cleft, short stem with one small fresh green leaf. Pink rose glass disk, lighter pink peach raised clearly above disk with pale highlights and subtle dark pink contact shading. This is a peach fruit, no face, no play button.",
+    "styleReference": "originals/bilibili.png",
+    "designNote": "按用户指定改为粉红水蜜桃。",
+    "revisedAt": "2026-10-19"
   },
   {
     "id": "012-bobo",
@@ -116,8 +118,10 @@
     "path": "icons/012-bobo.png",
     "source": "generated",
     "status": "ready",
-    "prompt": "Create ONE finished PNG navigation icon for \"BOBO\" in the category \"APP\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a rose pink glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup. Subject clarification: private media library, original turquoise play symbol.",
-    "styleReference": "originals/bilibili.png"
+    "prompt": "Use case: stylized-concept. Create one premium app navigation icon, square composition, matching the provided reference image ONLY for its circular glass button materials and proportions. A perfectly circular glossy glass disk with a thick double beveled luminous rim, frontal view, soft upper-left studio highlights. Disk occupies 94% of square, centered with equal small margins. A single large raised 3D emblem sits within disk. Outside circle genuinely transparent, no backdrop, no cast shadow outside disk, no text, no watermark, no grid, no other icons. Strong readable silhouette at 200x200 pixels. BOBO: a single curved YELLOW BANANA fruit, vibrant golden yellow skin, recognizable crescent silhouette, small brown stem and tip, intact unpeeled banana. Warm pale amber-gold glass disk, banana stands out with cream highlights and rich golden contact shading. No face, no play button.",
+    "styleReference": "originals/bilibili.png",
+    "designNote": "按用户指定改为黄色香蕉。",
+    "revisedAt": "2026-10-19"
   },
   {
     "id": "013-mdc-ng",
@@ -336,8 +340,10 @@
     "path": "icons/034-nono.png",
     "source": "generated",
     "status": "ready",
-    "prompt": "Create ONE finished PNG navigation icon for \"NONO\" in the category \"APP\". Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Use the established recognizable brand symbol and brand color if known; for a private or generic tool, design an original simple pictogram representing its function, with a ice blue glass disk. A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
-    "styleReference": "originals/bilibili.png"
+    "prompt": "Use case: stylized-concept. Create one premium app navigation icon, square composition, matching the provided reference image ONLY for its circular glass button materials and proportions. A perfectly circular glossy glass disk with a thick double beveled luminous rim, frontal view, soft upper-left studio highlights. Disk occupies 94% of square, centered with equal small margins. A single large raised 3D emblem sits within disk. Outside circle genuinely transparent, no backdrop, no cast shadow outside disk, no text, no watermark, no grid, no other icons. Strong readable silhouette at 200x200 pixels. NONO: one ripe ORANGE fruit, saturated tangerine orange peel with restrained subtle orange-peel texture, short stem and one fresh green leaf. Warm orange glass disk, raised fruit stands out with pale orange highlights and amber contact shading. Clearly orange citrus fruit, no face.",
+    "styleReference": "originals/bilibili.png",
+    "designNote": "按用户指定改为橙子。",
+    "revisedAt": "2026-10-19"
   },
   {
     "id": "035-muvyo",
@@ -1912,5 +1918,17 @@
     "status": "ready",
     "prompt": "Create one neutral film-awards website navigation icon: a small elegant golden rooster award statuette centered in a translucent amber circular glass medallion. Match the supplied reference only in glossy 3D glass material, beveled circular rim, soft highlights and sculpted ceramic relief. Front facing perfect circle on a square canvas, 5 percent transparent margin on all sides. True alpha background. No lettering, photographs or extra objects.",
     "styleReference": "originals/bilibili.png"
+  },
+  {
+    "id": "193-workbuddy",
+    "name": "WorkBuddy",
+    "group": "APP",
+    "path": "icons/193-workbuddy.png",
+    "source": "generated",
+    "status": "ready",
+    "styleReference": "originals/bilibili.png",
+    "prompt": "Use case: stylized-concept. Create one premium app navigation icon, square composition, matching the provided reference image ONLY for its circular glass button materials and proportions. A perfectly circular glossy glass disk with a thick double beveled luminous rim, frontal view, soft upper-left studio highlights. Disk occupies 94% of square, centered with equal small margins. A single large raised 3D emblem sits within disk. Outside circle genuinely transparent, no backdrop, no cast shadow outside disk, no text, no watermark, no grid, no other icons. Strong readable silhouette at 200x200 pixels. WorkBuddy AI work assistant: a friendly white glazed ceramic robot head with two small cyan-lit eyes and a subtle smile, merged elegantly with a small white briefcase handle on top and a subtle front briefcase seam, simple iconic design, no lettering. Rich teal-cyan glass disk. Sophisticated friendly AI colleague emblem, strong white-on-teal contrast.",
+    "designNote": "本地 WorkBuddy AI 网关；采用原创 AI 工作助手主题，非官方标志。",
+    "revisedAt": "2026-10-19"
   }
 ]

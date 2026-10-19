@@ -2,7 +2,7 @@
 
 独立的圆形玻璃风格图标集合，可用于网页导航、个人主页和应用启动器。
 
-覆盖清单包含 192 个不同名称；已完成 192 个，待完成 0 个。相同名称的重复导航共用图标。
+覆盖清单包含 193 个不同名称；已完成 193 个，待完成 0 个。相同名称的重复导航共用图标。
 
 ## 使用方法
 
@@ -90,6 +90,7 @@
 | <img src="icons/034-nono.png" width="64" height="64" alt="NONO"> | NONO | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/034-nono.png) |
 | <img src="icons/035-muvyo.png" width="64" height="64" alt="Muvyo"> | Muvyo | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/035-muvyo.png) |
 | <img src="icons/036-mr.png" width="64" height="64" alt="MR授权管理"> | MR授权管理 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/036-mr.png) |
+| <img src="icons/193-workbuddy.png" width="64" height="64" alt="WorkBuddy"> | WorkBuddy | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/193-workbuddy.png) |
 
 ## AI
 

@@ -118,7 +118,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/011-momo.png",
     "width": 200,
     "height": 200,
-    "sha256": "3c1094cfc4a6f61a4e815e3f8ab6b7ea71205ed7b8b3cf1720bdebcbb3bd9dc5"
+    "sha256": "f884bbf29103248489ba8632b180de7994fd92c9bc05be3d5ea9eee16749e070"
   },
   {
     "id": "012-bobo",
@@ -129,7 +129,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/012-bobo.png",
     "width": 200,
     "height": 200,
-    "sha256": "eaa4ba72376f2525d64bc1c395f7d05b1f9ccf0e994c1e65d2b243c0ca7fbd42"
+    "sha256": "2d252b6077bc38c0f25c094fec358980de44b0fa9b8bf477267648c5aea92b66"
   },
   {
     "id": "013-mdc-ng",
@@ -371,7 +371,7 @@
     "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/034-nono.png",
     "width": 200,
     "height": 200,
-    "sha256": "624b79f8038996f9d286397110b3f298ac03c2794ae491125f28751ab74a63c2"
+    "sha256": "24b093c158640006ca214a3af2b980ffa55c57bb331f19855a2d16736b1d99a2"
   },
   {
     "id": "035-muvyo",
@@ -2110,5 +2110,16 @@
     "width": 200,
     "height": 200,
     "sha256": "c29efa9b08d15f1a5448a564598bf7fe6274e8d75e180cfe9fff1a04220b2814"
+  },
+  {
+    "id": "193-workbuddy",
+    "name": "WorkBuddy",
+    "group": "APP",
+    "path": "icons/193-workbuddy.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/193-workbuddy.png",
+    "width": 200,
+    "height": 200,
+    "sha256": "e69465f7894a39e04a20aa72482e4bfb9785cb267f53f23f0f461e59f11cd315"
   }
 ]
