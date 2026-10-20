@@ -2121,5 +2121,16 @@
     "width": 200,
     "height": 200,
     "sha256": "e69465f7894a39e04a20aa72482e4bfb9785cb267f53f23f0f461e59f11cd315"
+  },
+  {
+    "id": "194-zhizhishu",
+    "name": "吱吱鼠",
+    "group": "AI",
+    "path": "icons/194-zhizhishu.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/194-zhizhishu.png",
+    "width": 200,
+    "height": 200,
+    "sha256": "5a432aba88f7de782f79b8928b9315af259576b79fee0ea2f93f3919d737df5f"
   }
 ]

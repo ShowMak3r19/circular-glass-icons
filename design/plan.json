@@ -1930,5 +1930,17 @@
     "prompt": "Use case: stylized-concept. Create one premium app navigation icon, square composition, matching the provided reference image ONLY for its circular glass button materials and proportions. A perfectly circular glossy glass disk with a thick double beveled luminous rim, frontal view, soft upper-left studio highlights. Disk occupies 94% of square, centered with equal small margins. A single large raised 3D emblem sits within disk. Outside circle genuinely transparent, no backdrop, no cast shadow outside disk, no text, no watermark, no grid, no other icons. Strong readable silhouette at 200x200 pixels. WorkBuddy AI work assistant: a friendly white glazed ceramic robot head with two small cyan-lit eyes and a subtle smile, merged elegantly with a small white briefcase handle on top and a subtle front briefcase seam, simple iconic design, no lettering. Rich teal-cyan glass disk. Sophisticated friendly AI colleague emblem, strong white-on-teal contrast.",
     "designNote": "本地 WorkBuddy AI 网关；采用原创 AI 工作助手主题，非官方标志。",
     "revisedAt": "2026-10-19"
+  },
+  {
+    "id": "194-zhizhishu",
+    "name": "吱吱鼠",
+    "group": "AI",
+    "path": "icons/194-zhizhishu.png",
+    "source": "generated",
+    "status": "ready",
+    "prompt": "Use case: style-transfer. Create ONE finished square app navigation icon for 吱吱鼠. Image 1 is the subject identity reference: preserve the adorable pale cream mouse mascot, very large round pink inner ears, big glossy black eyes, round peach-pink cheeks, small pink nose, smiling mouth, blue knitted beanie with small pompom and tiny golden pin, blue clothing, tiny hands clasped together in front of its chest. Keep that recognizable pose and character; not a generic computer mouse or robot. Image 2 is ONLY the material and framing reference: a glossy translucent colored-glass circular medallion, finely double-beveled rim and rounded raised 3D central character. Use ice-blue / sky-blue glass disk with a slightly richer cyan rim; warm ivory mouse and pink ears remain distinct. Front view perfectly circular button centered on square canvas with 4 percent clear margin on every side. Large centered head and upper torso, ears fully inside circle, simplified details readable at 200x200 and 64px. Soft studio highlights upper left, sculpted smooth ceramic/glass mascot with gentle rounded forms, premium cohesive with provided glass icon. Remove ALL writing: no Chinese lettering above the head, no channel name, subscriber count, watermark, square card or screenshot. True alpha transparent outside circular disk, no external backdrop or external shadow.",
+    "styleReference": "originals/bilibili.png",
+    "designNote": "根据用户提供的小鼠形象设计：蓝色毛线帽、粉色大耳、奶白脸、合拢双手；冰蓝圆形玻璃底，无文字。",
+    "revisedAt": "2026-10-20"
   }
 ]
