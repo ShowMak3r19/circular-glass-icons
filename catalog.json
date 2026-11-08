@@ -2132,5 +2132,16 @@
     "width": 200,
     "height": 200,
     "sha256": "5a432aba88f7de782f79b8928b9315af259576b79fee0ea2f93f3919d737df5f"
+  },
+  {
+    "id": "195-showmaker",
+    "name": "showmaker",
+    "group": "APP",
+    "path": "icons/195-showmaker.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/195-showmaker.png",
+    "width": 200,
+    "height": 200,
+    "sha256": "a0c80cbeba005b6ad8eed693c9747383528459aca888ab88a4dda83e26edfe4d"
   }
 ]

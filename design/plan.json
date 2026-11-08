@@ -1942,5 +1942,15 @@
     "styleReference": "originals/bilibili.png",
     "designNote": "根据用户提供的小鼠形象设计：蓝色毛线帽、粉色大耳、奶白脸、合拢双手；冰蓝圆形玻璃底，无文字。",
     "revisedAt": "2026-10-20"
+  },
+  {
+    "id": "195-showmaker",
+    "name": "showmaker",
+    "group": "APP",
+    "path": "icons/195-showmaker.png",
+    "source": "generated",
+    "status": "ready",
+    "prompt": "Create ONE finished PNG navigation icon for \"showmaker\" in the category \"APP\" (a curated collection of video widget modules). Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Design an original simple pictogram representing a collection of plug-in modules: three or four rounded white interlocking puzzle-piece blocks neatly stacked/assembled as one compact cluster, with a violet purple glass disk (around #6d5ef2). A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
+    "styleReference": "originals/bilibili.png"
   }
 ]
