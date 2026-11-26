@@ -2,7 +2,7 @@
 
 独立的圆形玻璃风格图标集合，可用于网页导航、个人主页和应用启动器。
 
-覆盖清单包含 195 个不同名称；已完成 195 个，待完成 0 个。相同名称的重复导航共用图标。
+覆盖清单包含 197 个不同名称；已完成 197 个，待完成 0 个。相同名称的重复导航共用图标。
 
 ## 使用方法
 
@@ -91,6 +91,7 @@
 | <img src="icons/035-muvyo.png" width="64" height="64" alt="Muvyo"> | Muvyo | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/035-muvyo.png) |
 | <img src="icons/036-mr.png" width="64" height="64" alt="MR授权管理"> | MR授权管理 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/036-mr.png) |
 | <img src="icons/195-showmaker.png" width="64" height="64" alt="showmaker"> | showmaker | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/195-showmaker.png) |
+| <img src="icons/196-obsidianmcp.png" width="64" height="64" alt="ObsidianMCP"> | ObsidianMCP | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/196-obsidianmcp.png) |
 
 ## AI
 
@@ -293,6 +294,7 @@
 | <img src="icons/189-icon.png" width="64" height="64" alt="红杏云"> | 红杏云 | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/189-icon.png) |
 | <img src="icons/190-nicecloud.png" width="64" height="64" alt="Nicecloud"> | Nicecloud | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/190-nicecloud.png) |
 | <img src="icons/191-myip.png" width="64" height="64" alt="myip"> | myip | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/191-myip.png) |
+| <img src="icons/197-datawave.png" width="64" height="64" alt="DataWave"> | DataWave | [原图地址](https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/197-datawave.png) |
 
 ## Momo
 

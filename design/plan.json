@@ -1952,5 +1952,27 @@
     "status": "ready",
     "prompt": "Create ONE finished PNG navigation icon for \"showmaker\" in the category \"APP\" (a curated collection of video widget modules). Use the attached reference only for visual style, not its TV symbol. Match its glossy translucent colored glass circular medallion, fine double beveled glass rim, rounded embossed 3D ceramic central symbol, soft studio highlights and subtle inner reflections. Design an original simple pictogram representing a collection of plug-in modules: three or four rounded white interlocking puzzle-piece blocks neatly stacked/assembled as one compact cluster, with a violet purple glass disk (around #6d5ef2). A single clear sculpted mark, no lettering, no caption, no surrounding objects. Front-facing perfect circle centered on a square canvas, with equal 4 percent transparent margin on all four sides; never cut off the circle. True alpha transparency outside the disk. Crisp readable silhouette at 64 pixels. Do not put the icon inside any square background, screenshot or phone mockup.",
     "styleReference": "originals/bilibili.png"
+  },
+  {
+    "id": "196-obsidianmcp",
+    "name": "ObsidianMCP",
+    "group": "APP",
+    "path": "icons/196-obsidianmcp.png",
+    "source": "generated",
+    "status": "ready",
+    "prompt": "Use case: logo-brand. Asset type: premium SunPanel self-hosted dashboard icon, matching an existing glossy circular glass badge series. Square 1024x1024, perfectly front-facing, precisely centered circular glass disc occupying about 95% of the canvas, close margin, entire rim visible. Clear vivid tinted lacquer glass, tasteful beveled translucent double rim, smooth specular highlight along upper left and lower right, rich color in the core, slight depth and tidy contact shadow inside the disc. The surrounding canvas must be real fully transparent alpha, isolated circular perimeter, no external shadow, no checkerboard. Bold instantly legible single emblem approximately 60% of the disc diameter, sculpted with smooth surfaces and soft depth. No text, no lettering, no watermark, no decoration outside the disc, no mockup. Subject: ObsidianMCP. A large stylized faceted obsidian crystal with an asymmetrical angular shard silhouette and three clean broad faces, shown in polished near-white icy lavender with a few violet facets. Integrate one simple split facet connecting subtly to two small luminous endpoints on one edge, as a quiet reference to knowledge links and MCP. Deep saturated amethyst and blue-violet glass disc with purple highlights. Keep the emblem silhouette unified and very clear at small icon sizes. Rich contrast, glass disc and sculpted emblem have distinctly different values.",
+    "designNote": "紫色切面晶体与知识链接节点。",
+    "revisedAt": "2026-11-26"
+  },
+  {
+    "id": "197-datawave",
+    "name": "DataWave",
+    "group": "其他工具",
+    "path": "icons/197-datawave.png",
+    "source": "generated",
+    "status": "ready",
+    "prompt": "Use case: logo-brand. Asset type: premium SunPanel self-hosted dashboard icon, matching an existing glossy circular glass badge series. Square 1024x1024, perfectly front-facing, precisely centered circular glass disc occupying about 95% of the canvas, close margin, entire rim visible. Clear vivid tinted lacquer glass, tasteful beveled translucent double rim, smooth specular highlight along upper left and lower right, rich color in the core, slight depth and tidy contact shadow inside the disc. The surrounding canvas must be real fully transparent alpha, isolated circular perimeter, no external shadow, no checkerboard. Bold instantly legible single emblem approximately 60% of the disc diameter, sculpted with smooth surfaces and soft depth. No text, no lettering, no watermark, no decoration outside the disc, no mockup. Subject: DataWave. A single bold ivory white flowing data wave emblem across the middle, like one S-shaped signal line cresting smoothly between left and right, with a few round sample points on the curve or minimal ascending bars beneath to suggest time-series data. Bias toward a clean compact crest and three legible points rather than a dashboard pictogram. Disc is saturated ocean blue with clear cyan and cool ultramarine highlights, a defined bright beveled outer ring and deeper blue inner glass. Keep the design clearly distinct from a purple crystal badge, simple enough to identify at 32 pixels.",
+    "designNote": "蓝色圆盘、白色数据波形与柱状图。",
+    "revisedAt": "2026-11-26"
   }
 ]

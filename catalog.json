@@ -2143,5 +2143,27 @@
     "width": 200,
     "height": 200,
     "sha256": "a0c80cbeba005b6ad8eed693c9747383528459aca888ab88a4dda83e26edfe4d"
+  },
+  {
+    "id": "196-obsidianmcp",
+    "name": "ObsidianMCP",
+    "group": "APP",
+    "path": "icons/196-obsidianmcp.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/196-obsidianmcp.png",
+    "width": 200,
+    "height": 200,
+    "sha256": "9143378c4ab3b09de880853f3d509245579a9612c184cbcf2bd697d19f2ffdc5"
+  },
+  {
+    "id": "197-datawave",
+    "name": "DataWave",
+    "group": "其他工具",
+    "path": "icons/197-datawave.png",
+    "source": "generated",
+    "url": "https://raw.githubusercontent.com/ShowMak3r19/circular-glass-icons/main/icons/197-datawave.png",
+    "width": 200,
+    "height": 200,
+    "sha256": "b5b174f2c37fb5b8227cfb88585ad23c98a3672a95077de25f6551f25e790bc4"
   }
 ]
